@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Starting frontend (dependencies not installed)'",
+    "build": "echo 'Building frontend (dependencies not installed)'"
+  }
+}
